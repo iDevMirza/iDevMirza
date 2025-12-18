@@ -31,6 +31,7 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 ---
 
 ### Reach Me Out
+
 <p align="left">
    <a href="https://linkedin.com/in/mirzamahmudhossan" target="blank">
       <img
@@ -60,6 +61,8 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
         />
     </a>
 </p>
+
+---
 
 ### 🌱 Open Source Contributions
 

@@ -30,6 +30,37 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 
 ---
 
+### Reach Me Out
+<p align="left">
+   <a href="https://linkedin.com/in/mirzamahmudhossan" target="blank">
+      <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="mirzamahmudhossan"
+         height="30"
+         width="40"
+      />
+    </a>
+    <a href="https://www.facebook.com/piyash.mirza.1" target="blank">
+         <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="piyash.mirza.1"
+            height="30"
+            width="40"
+         />
+    </a>
+    <a href="https://medium.com/@dev.mirzamahmud" target="blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="@dev.mirzamahmud"
+            height="30"
+            width="40"
+        />
+    </a>
+</p>
+
 ### 🌱 Open Source Contributions
 
 - ### [Smart Response Builder][smart_response_builder] — Flutter widget for unified API state handling (loading, error, empty).

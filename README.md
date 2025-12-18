@@ -15,7 +15,7 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 
 ---
 
-**🤝 I’m looking** - To collaborate on open-source projects
+### 🤝 I’m looking** - To collaborate on open-source projects
 
 **🧣 I’m currently ready to work ->**
 - **Languages:** Dart, Java, Kotlin(Basic), Golang,

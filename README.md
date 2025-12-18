@@ -36,7 +36,7 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 
 ---
 
-## 🌱 Open Source Contributions
+### 🌱 Open Source Contributions
 
 - ### [Smart Response Builder][smart_response_builder] — Flutter widget for unified API state handling (loading, error, empty).
 [smart_response_builder]:https://pub.dev/packages/smart_response_builder
@@ -46,7 +46,7 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 
 ---
 
-## Current Stats
+### Current Stats
 
 <div align="center">
    <div>

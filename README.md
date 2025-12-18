@@ -1,6 +1,7 @@
 <h1>👋 Hi, I'm Mirza Mahmud Hossan</h1>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&random=false&width=850&lines=Software+Engineer;%F0%9F%92%A4+Competitive+Programmer;%F0%9F%92%A4+Backend+Developer)](https://git.io/typing-svg)
--->
+
+---
+
 Self-motivated Mobile App Developer with 3+ years of experience building scalable, high-performance mobile applications. I specialize in clean architecture, advanced state management, and real-time systems, with hands-on experience delivering production apps used by thousands of users. Also I am like an architect who designs and Develops digital Products with a strong passion for continuous learning and staying up-to-date with the latest industry trends and technologies. I approach every project critically and creatively, analyzing problems and finding innovative solutions.
 
 ---
@@ -32,6 +33,12 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 - **Networking & Real-Time:** REST APIs, GraphQL, WebRTC, Socket.io, Dio
 - **Tools:** Git, GitHub,
 - **CI/CD:** Github Actions, Codemagic,
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDevMirza&show_icons=true&locale=en" alt="rydkrm" />
+</p>
 
 ---
 

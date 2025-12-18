@@ -30,12 +30,6 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDevMirza&show_icons=true&locale=en" alt="iDevMirza" />
-</p>
-
----
-
 ### 🌱 Open Source Contributions
 
 - ### [Smart Response Builder][smart_response_builder] — Flutter widget for unified API state handling (loading, error, empty).
@@ -43,6 +37,12 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 
 - ### [Flutter Unified Image Picker][flutter_unified_image_picker] — Plugin for camera/gallery access with a draggable UI.
 [flutter_unified_image_picker]:https://pub.dev/packages/flutter_unified_image_picker
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDevMirza&show_icons=true&locale=en" alt="iDevMirza" />
+</p>
 
 ---
 

@@ -40,21 +40,21 @@ Self-motivated Mobile App Developer with 3+ years of experience building scalabl
 <div align="center">
    <div>
       <img
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rydkrm&theme=github_dark"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iDevMirza&theme=github_dark"
          width="32.5%"
       />
       <img
-         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rydkrm&theme=github_dark"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iDevMirza&theme=github_dark"
          width="32.5%"
       />
       <img
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rydkrm&theme=github_dark&utcOffset=8"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iDevMirza&theme=github_dark&utcOffset=8"
          width="32.5%"
       />
    </div>
 
    <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rydkrm&theme=github_dark"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iDevMirza&theme=github_dark"
       width="98%"
    />
 </div>

@@ -3,7 +3,7 @@
 Self-motivated Mobile App Developer with 3+ years of experience building scalable, high-performance mobile applications. I specialize in clean architecture, advanced state management, and real-time systems, with hands-on experience delivering production apps used by thousands of users. Also I am like an architect who designs and Develops digital Products with a strong passion for continuous learning and staying up-to-date with the latest industry trends and technologies. I approach every project critically and creatively, analyzing problems and finding innovative solutions.
 
 ### [RESUME][resume]
-[resume]:https://drive.google.com/file/d/1M5HU1ev6dDKUmakWrjNMJ0151JCVB7Sw/view?usp=drive_link
+[resume]:https://drive.google.com/file/d/1E3WTc6yypr3CQvETEGoCtFcHiaEHfuu0/view
 
 ### 🚀 Professional Summary
 

@@ -1,7 +1,5 @@
 <h1>👋 Hi, I'm Mirza Mahmud Hossan</h1>
 
----
-
 Self-motivated Mobile App Developer with 3+ years of experience building scalable, high-performance mobile applications. I specialize in clean architecture, advanced state management, and real-time systems, with hands-on experience delivering production apps used by thousands of users. Also I am like an architect who designs and Develops digital Products with a strong passion for continuous learning and staying up-to-date with the latest industry trends and technologies. I approach every project critically and creatively, analyzing problems and finding innovative solutions.
 
 ---

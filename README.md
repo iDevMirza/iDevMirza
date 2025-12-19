@@ -84,19 +84,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 
-  <!-- REST API -->
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="rest-api" width="40" height="40"/>
-  </a>
-
   <!-- GraphQL -->
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-
-  <!-- WebRTC -->
-  <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" alt="webrtc" width="40" height="40"/>
   </a>
 
   <!-- Socket.IO -->

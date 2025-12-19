@@ -41,7 +41,8 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
+
 <p align="left" style="margin: 5px">
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img
